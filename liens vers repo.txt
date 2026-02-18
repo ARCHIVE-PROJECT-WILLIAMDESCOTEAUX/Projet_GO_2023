@@ -1,0 +1,24 @@
+# Lien vers repo
+
+https://github.com/colXavGig/XavierGiguereWilliamDescoteauxAlexandreEmond_pf_8inf851/tree/main
+
+# Lien vers site web
+
+https//analyseproj.bwdev.dev/dashboard
+
+# identifiant
+
+## Clerk
+
+username : clerk@clerk.com
+password : clerk
+
+## Admin
+
+username : admin@admin.com
+password : admin
+
+## User
+
+username : user@user.com
+password : user
